@@ -1,4 +1,4 @@
 # blogos
 Words -> World
 
-Blogos is fast and easy-to-use blogging engine.
+Blogos is a fast and easy-to-use blogging engine.
